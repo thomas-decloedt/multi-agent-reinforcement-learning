@@ -14,3 +14,4 @@ TO DO:
 References:
 * https://github.com/Farama-Foundation/PettingZoo
 * https://pettingzoo.farama.org/environments/butterfly/
+* https://pettingzoo.farama.org/environments/mpe/simple_tag/
